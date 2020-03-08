@@ -101,5 +101,6 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
 # Materiały
+TEST Julita
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
