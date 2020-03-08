@@ -1,3 +1,4 @@
+https://travis-ci.org/Julita1981/se_hello_printer_app.svg?branch=master
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
