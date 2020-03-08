@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Julita1981/se_hello_printer_app.svg?branch=master)](https://travis-ci.org/Julita1981/se_hello_printer_app)
+https://app.statuscake.com/YourStatus.php?test_type=push.rst
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
@@ -101,5 +103,6 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
 # Materiały
+TEST Julita
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
